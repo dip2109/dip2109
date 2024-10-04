@@ -63,7 +63,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/dip2109/dip2109/output/snake.svg" alt="Snake animation" />
-
-###
