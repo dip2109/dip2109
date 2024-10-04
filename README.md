@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Dipali Gangarde and I'm a ML, DL Enthusiastic and MERN Developer, from BRACT's Vishwakarma Institute of Information Technology, Pune</h2>
 
 ###
 
