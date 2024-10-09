@@ -1,3 +1,26 @@
+
+<b> </b>
+<b><h1 align="center"><strong>Welcome to My Profile...!!!</strong></h1></b>
+<h1 align="center"><strong>I'm Dipali Gangarde</strong></h1>
+
+
+-  🎉 I’m currently working on Machine Learning , Deep Learning Projects  
+  
+
+-  🎓 MERN Stack Developer  
+  
+
+- 🌍 Exploring newer technologies and developing software solutions.  
+  
+
+- 🌌 Looking for contributions in Artificial Intelligence.  
+  
+
+- 💗 Loves listening to songs...  
+  
+
+<br/> 
+
 <h2 align="left">Hi 👋! My name is Dipali Gangarde and I'm a ML, DL Enthusiastic and MERN Developer, from BRACT's Vishwakarma Institute of Information Technology, Pune</h2>
 
 ###
@@ -9,9 +32,13 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966"  />
+<img align="right" height="250" src="https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966"  />
 
 ###
+<br>
+<br>
+<br>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
