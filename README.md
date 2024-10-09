@@ -1,13 +1,15 @@
 
-<b> </b>
-<b><h1 align="center"><strong>Welcome to My Profile...!!!</strong></h1></b>
-<h1 align="center"><strong>I'm Dipali Gangarde</strong></h1>
+<b><h1 align="center">Hi there👋🏻, I'm Dipali Gangarde</h1></b>
+
+<h3 align="left">Glad to see you here...!!!</h3>
 
 
--  🎉 I’m currently working on Machine Learning , Deep Learning Projects  
+<h3 align="left">💁 About Me:</h3>
+
+- 🎉 I’m currently working on Machine Learning , Deep Learning Projects  
   
 
--  🎓 MERN Stack Developer  
+- 🎓 MERN Stack Developer  
   
 
 - 🌍 Exploring newer technologies and developing software solutions.  
@@ -21,7 +23,6 @@
 
 <br/> 
 
-<h2 align="left">Hi 👋! My name is Dipali Gangarde and I'm a ML, DL Enthusiastic and MERN Developer, from BRACT's Vishwakarma Institute of Information Technology, Pune</h2>
 
 ###
 
@@ -37,9 +38,8 @@
 ###
 <br>
 <br>
-<br>
 
-
+<h3 align="left">🛠 Tech Stack:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
