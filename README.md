@@ -9,7 +9,7 @@
 - 🎉 I’m currently working on Machine Learning , Deep Learning Projects  
   
 
-- 🎓 MERN Stack Developer  
+- 🎓 Frontend Web Developer  
   
 
 - 🌍 Exploring newer technologies and developing software solutions.  
